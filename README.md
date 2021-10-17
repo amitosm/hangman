@@ -1,5 +1,3 @@
-
-
 To do :
 1)create bank of words  v
 2)choose random word from the bank
@@ -7,7 +5,6 @@ To do :
 4)function to manipulate the *** string and show the currect letters.
 5)get input from the user, check if it's valid 
 6)keep track of remaining attempts (10 total)
-7)
 
 welcome msg
 choose random word 
